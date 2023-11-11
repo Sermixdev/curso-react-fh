@@ -26,5 +26,5 @@ CounterApp.propTypes = {
 };
 CounterApp.defaultProps = {
     title: 'No hay titulo',
-    value: 0,
-};
+    value: 0, 
+}; 
